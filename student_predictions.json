@@ -1,0 +1,10 @@
+{
+  "detailed_predictions": [
+    {
+      "source_element": 0,
+      "target_element": 1,
+      "violation_probability": 1.0,
+      "status": "CRITICAL"
+    }
+  ]
+}
